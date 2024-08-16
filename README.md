@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+To get the number of words and characters in a text
